@@ -1,0 +1,27 @@
+{
+  "name": "BAmazon",
+  "version": "1.0.0",
+  "description": "Creating an Amazon-like storefront using MySQL. The app will take in orders from customers and delete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gansuvd777/BAmazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gansuvd777/BAmazon/issues"
+  },
+  "homepage": "https://github.com/gansuvd777/BAmazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20",
+    "table": "^5.1.0"
+  }
+}
